@@ -1,14 +1,14 @@
 @media screen and (min-width: 480px) {
-  
+
   /**********************************
   TWO COLUMN LAYOUT
   ***********************************/
-  
+
   #primary {
     width: 50%;
     float: left;
   }
-  
+
   #secondary {
     width: 40%;
     float: right;
@@ -34,25 +34,25 @@
     text-align: right;
     width: 45%;
   }
-  
+
   #logo {
     float: left;
     margin-left: 5%;
     text-align: left;
     width: 45%;
   }
-  
+
   h1 {
     font-size: 2.5em;
   }
-  
+
   h2 {
     font-size: 0.825em;
     margin-bottom: 20px;
   }
-  
+
   header {
-    border-bottom: 5px solid #599a68;
+    border-bottom: 5px solid #2a7599;
     margin-bottom: 60px;
   }
 
@@ -60,7 +60,7 @@
   /**********************************
   PAGE: PORTFOLIO
   ***********************************/
-  
+
   .profile-photo {
     float: left;
     margin: 0 5% 250px 0;
@@ -69,12 +69,9 @@
   /**********************************
   PAGE: ABOUT
   ***********************************/
-  
+
   .wrap {
     min-height: calc(100vh - 130px);
   }
 
 }
-
-
-
